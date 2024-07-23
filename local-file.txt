@@ -1,1 +1,2 @@
 this is local file
+this is a line added from newbranch
